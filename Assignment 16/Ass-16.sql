@@ -35,9 +35,9 @@ CREATE TABLE Loans (
 
 -- 2) Insert sample data (parents first!)
 INSERT INTO Members (member_id, name, email, join_date) VALUES
-(1, 'Hafsa', 'abc@123.gmail.com', '2025-10-16'),
-(2, 'anusha', 'def@gmail.com',       '2025-10-10'),
-(3, 'chiranya', 'ghi@gmail.com',       '2025-10-24');
+(1, 'anil', 'abc@123.gmail.com', '2025-10-16'),
+(2, 'siri', 'def@gmail.com',       '2025-10-10'),
+(3, 'nani', 'ghi@gmail.com',       '2025-10-24');
 
 INSERT INTO Books (book_id, title, author, available) VALUES
 (110, 'Atomic Habits',       'James Clear',     TRUE),
